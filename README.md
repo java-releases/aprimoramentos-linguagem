@@ -10,4 +10,4 @@
 <hr>
 
 ### Resumo
-- Funciona somente com se implemnta um `java.lang.AutoCloseable`
+- Funciona somente quando se implementa um `java.lang.AutoCloseable`
