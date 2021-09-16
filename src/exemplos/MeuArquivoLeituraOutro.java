@@ -9,8 +9,7 @@ public class MeuArquivoLeituraOutro implements AutoCloseable {
 	}
 
 	@Override
-	public void close() throws Exception {
-		System.out.println("Executando o metodo close();");
+	public void close() throws IllegalStateException {
 		throw new IllegalStateException("lançada pelo metodo close()");
 	}
 
