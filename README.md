@@ -16,3 +16,5 @@
     public void close() throws Exception;
     ```
 - A JVM é responsável por chamar o método close(), antes de chamar um bloco catch ou finally.
+- Havendo mais de 1 recurso no `try-with-resoucers`, então os recursos deverão ser separados por `;`
+- O `;` do último recurso, é de uso opcional;
