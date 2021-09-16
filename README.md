@@ -15,3 +15,4 @@
   - ```java
     public void close() throws Exception;
     ```
+- A JVM é responsável por chamar o método close(), antes de chamar um bloco catch ou finally.
