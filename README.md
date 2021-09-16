@@ -11,3 +11,7 @@
 
 ### Resumo
 - Funciona somente quando se implementa um `java.lang.AutoCloseable`
+- A interface AutoCloseable, obriga a implementação do método close:
+  - ```java
+    public void close() throws Exception;
+    ```
