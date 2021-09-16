@@ -8,3 +8,6 @@
 - Desenvolver código que lida com vários tipos de exceptions em um único bloco catch;
 
 <hr>
+
+### Resumo
+- Funciona somente com se implemnta um `java.lang.AutoCloseable`
