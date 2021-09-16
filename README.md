@@ -19,3 +19,6 @@
 - Havendo mais de 1 recurso no `try-with-resoucers`, então os recursos deverão ser separados por `;`
 - O `;` do último recurso, é de uso opcional;
 - Os objetos criados dentro de um bloco `try-with-resoucers`, tem como escopo somente o bloco try{}; 
+- Podemos utilizar variáveis inicializadas fora de um `try()`, desde que:
+  - Seja final ou efetivamente final;
+  - O metodo close() será chamado em ordem do fim para o começo conforme declarado em um `try-with-resources`
