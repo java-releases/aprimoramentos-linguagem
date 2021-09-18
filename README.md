@@ -10,7 +10,7 @@
 <hr>
 
 ### Resumo
-- Funciona somente quando se implementa um `java.lang.AutoCloseable`
+- Funciona somente quando se implementa um public interface `java.io.Closeable` ou `java.lang.AutoCloseable`
 - A interface AutoCloseable, obriga a implementação do método close:
   - ```java
     public void close() throws Exception;
