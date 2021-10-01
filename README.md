@@ -1,4 +1,4 @@
-![](https://github.com/ocpjp-study/aprimoramentos-linguagem/blob/main/ocpjp.png)
+![](https://github.com/ocpjp-study/aprimoramentos-linguagem/blob/main/aprimoramentos-linguagem.jpg)
 
 ### Tópico: Aprimoramentos linguagem
 ### Objetivos
