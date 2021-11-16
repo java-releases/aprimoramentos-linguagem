@@ -1,5 +1,3 @@
-![](https://github.com/ocpjp-study/aprimoramentos-linguagem/blob/main/aprimoramentos-linguagem.jpg)
-
 ### Tópico: Aprimoramentos linguagem
 ### Objetivos
 - Usar try-with-resources construct;
